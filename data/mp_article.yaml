@@ -1,0 +1,5 @@
+mp_article_001:
+  title: "xxx-1234"
+  content: "bbb-1234"
+  expect: "新增文章成功"
+  channel: "数据库"

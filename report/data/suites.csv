@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jul 27 11:48:55 CST 2022","Wed Jul 27 11:49:05 CST 2022","10399","case","test_01_mp_login","TestMpLogin","","","test_mp_login[13911111111-246810-python]",""
+"passed","Thu Jul 28 04:17:22 CST 2022","Thu Jul 28 04:17:42 CST 2022","19959","case","test_02_mp_article","TestMpArticle","","","test_mp_article[xxx-1234-bbb-1234-新增文章成功-数据库]",""
+"passed","Sat Jul 23 14:40:40 CST 2022","Sat Jul 23 14:41:02 CST 2022","21951","case","test_02_mp_article","TestMpArticle","","","test_mp_article",""

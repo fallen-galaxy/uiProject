@@ -1,0 +1,23 @@
+2022-07-27 11:48:52,644 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-27 11:48:52,647 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '', 'channel': '数据库'}, 'mp_article_002': {'title': 'xxx-5678', 'content': 'bbb-5678', 'expect': '', 'channel': '数据库'}}
+2022-07-27 11:48:52,647 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '', '数据库'), ('xxx-5678', 'bbb-5678', '', '数据库')]
+2022-07-27 11:48:52,648 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-27 11:48:52,650 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '', 'channel': '数据库'}, 'mp_article_002': {'title': 'xxx-5678', 'content': 'bbb-5678', 'expect': '', 'channel': '数据库'}}
+2022-07-27 11:48:52,651 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '', '数据库'), ('xxx-5678', 'bbb-5678', '', '数据库')]
+2022-07-27 11:48:52,666 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_login.yaml
+2022-07-27 11:48:52,667 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_login_001': {'username': 13911111111, 'authcode': 246810, 'expect': 'python'}}
+2022-07-27 11:48:52,668 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[(13911111111, 246810, 'python')]
+2022-07-27 11:48:52,675 INFO [test_01_mp_login.py(setup_class:14)] - 类之前调用
+2022-07-27 11:48:52,676 INFO [get_driver.py(get_web_driver:11)] - get_web_driver
+2022-07-27 11:48:55,242 INFO [base.py(__init__:17)] - 初始化驱动: <selenium.webdriver.chrome.webdriver.WebDriver (session="b39a53f503094c0744b25996e47fbfc4")>
+2022-07-27 11:48:55,244 INFO [page_mp_login.py(page_mp_login:28)] - 正在调用媒体前台登录业务方法
+2022-07-27 11:48:55,245 INFO [base.py(base_find_element:28)] - 正在查找元素： ('css selector', '[placeholder="请输入手机号"]')
+2022-07-27 11:48:55,258 INFO [base.py(base_input_text:52)] - 正在输入文本： ('css selector', '[placeholder="请输入手机号"]')
+2022-07-27 11:48:57,390 INFO [base.py(base_find_element:28)] - 正在查找元素： ('css selector', '[placeholder="验证码"]')
+2022-07-27 11:48:57,405 INFO [base.py(base_input_text:52)] - 正在输入文本： ('css selector', '[placeholder="验证码"]')
+2022-07-27 11:48:59,518 INFO [base.py(base_find_element:28)] - 正在查找元素： ('css selector', '.el-button--primary')
+2022-07-27 11:48:59,538 INFO [base.py(base_click_element:40)] - 正在点击元素： ('css selector', '.el-button--primary')
+2022-07-27 11:49:04,605 INFO [base.py(base_find_element:28)] - 正在查找元素： ('css selector', '.user-name')
+2022-07-27 11:49:04,617 INFO [base.py(base_get_text:65)] - 正在获取文本： ('css selector', '.user-name')
+2022-07-27 11:49:05,648 INFO [test_01_mp_login.py(teardown_class:23)] - 类之后调用
+2022-07-27 11:49:05,649 INFO [get_driver.py(quit_web_driver:20)] - quit_web_driver

@@ -1,0 +1,61 @@
+2022-07-28 04:11:56,183 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:11:56,191 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:11:56,192 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:11:56,192 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:11:56,194 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:11:56,195 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:11:56,234 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:11:56,235 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:11:56,236 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:15:21,074 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:15:21,076 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:15:21,077 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:15:21,077 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:15:21,079 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:15:21,080 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:15:21,094 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:15:21,096 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:15:21,096 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:17:10,819 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:17:10,821 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:17:10,821 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:17:10,822 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:17:10,824 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:17:10,824 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:17:10,840 INFO [read_yaml.py(read_yaml:12)] - 正在读取文件：mp_article.yaml
+2022-07-28 04:17:10,842 INFO [read_yaml.py(read_yaml:16)] - 查看文件内容：{'mp_article_001': {'title': 'xxx-1234', 'content': 'bbb-1234', 'expect': '新增文章成功', 'channel': '数据库'}}
+2022-07-28 04:17:10,842 INFO [read_yaml.py(read_yaml:20)] - 查看元组列表：[('xxx-1234', 'bbb-1234', '新增文章成功', '数据库')]
+2022-07-28 04:17:10,850 INFO [test_02_mp_article.py(setup_class:15)] - 类之前调用
+2022-07-28 04:17:10,851 INFO [get_driver.py(get_web_driver:11)] - get_web_driver
+2022-07-28 04:17:13,563 INFO [base.py(__init__:17)] - 初始化驱动：<selenium.webdriver.chrome.webdriver.WebDriver (session="e910c0c067d4c2413c2d4284d6e0ea6c")>
+2022-07-28 04:17:13,564 INFO [page_mp_login.py(page_mp_login_success:35)] - 正在调用媒体前台登录成功业务方法 13911111111 246810
+2022-07-28 04:17:13,564 INFO [base.py(base_find_element:28)] - 正在查找元素：('css selector', '[placeholder="请输入手机号"]')
+2022-07-28 04:17:13,578 INFO [base.py(base_input_text:52)] - 正在输入文本：('css selector', '[placeholder="请输入手机号"]') 13911111111
+2022-07-28 04:17:15,704 INFO [base.py(base_find_element:28)] - 正在查找元素：('css selector', '[placeholder="验证码"]')
+2022-07-28 04:17:15,718 INFO [base.py(base_input_text:52)] - 正在输入文本：('css selector', '[placeholder="验证码"]') 246810
+2022-07-28 04:17:17,848 INFO [base.py(base_find_element:28)] - 正在查找元素：('css selector', '.el-button--primary')
+2022-07-28 04:17:17,860 INFO [base.py(base_click_element:40)] - 正在点击元素：('css selector', '.el-button--primary')
+2022-07-28 04:17:22,938 INFO [base.py(__init__:17)] - 初始化驱动：<selenium.webdriver.chrome.webdriver.WebDriver (session="e910c0c067d4c2413c2d4284d6e0ea6c")>
+2022-07-28 04:17:22,940 INFO [page_mp_article.py(page_mp_article:44)] - 正在调用媒体前台发布文章业务方法
+2022-07-28 04:17:22,941 INFO [base.py(base_find_element:28)] - 正在查找元素：('xpath', '//span[text()="内容管理"]/..')
+2022-07-28 04:17:22,954 INFO [base.py(base_click_element:40)] - 正在点击元素：('xpath', '//span[text()="内容管理"]/..')
+2022-07-28 04:17:25,022 INFO [base.py(base_find_element:28)] - 正在查找元素：('xpath', "//*[contains(text(),'发布文章')]")
+2022-07-28 04:17:25,035 INFO [base.py(base_click_element:40)] - 正在点击元素：('xpath', "//*[contains(text(),'发布文章')]")
+2022-07-28 04:17:27,104 INFO [base.py(base_find_element:28)] - 正在查找元素：('css selector', '[placeholder="文章名称"]')
+2022-07-28 04:17:27,117 INFO [base.py(base_input_text:52)] - 正在输入文本：('css selector', '[placeholder="文章名称"]') xxx-1234
+2022-07-28 04:17:29,258 INFO [base.py(base_find_element:28)] - 正在查找元素：('css selector', '#publishTinymce_ifr')
+2022-07-28 04:17:29,293 INFO [base.py(base_find_element:28)] - 正在查找元素：('css selector', '#tinymce')
+2022-07-28 04:17:29,305 INFO [base.py(base_input_text:52)] - 正在输入文本：('css selector', '#tinymce') bbb-1234
+2022-07-28 04:17:31,491 INFO [base.py(base_find_element:28)] - 正在查找元素：('xpath', "//*[contains(text(),'自动')]")
+2022-07-28 04:17:31,505 INFO [base.py(base_click_element:40)] - 正在点击元素：('xpath', "//*[contains(text(),'自动')]")
+2022-07-28 04:17:33,573 INFO [base_web.py(base_web_click_element:13)] - 下拉框选择
+2022-07-28 04:17:33,573 INFO [base.py(base_find_element:28)] - 正在查找元素：('css selector', '[placeholder="请选择"]')
+2022-07-28 04:17:33,586 INFO [base.py(base_click_element:40)] - 正在点击元素：('css selector', '[placeholder="请选择"]')
+2022-07-28 04:17:36,698 INFO [base.py(base_find_element:28)] - 正在查找元素：('xpath', "//*[text()='数据库']")
+2022-07-28 04:17:36,712 INFO [base.py(base_click_element:40)] - 正在点击元素：('xpath', "//*[text()='数据库']")
+2022-07-28 04:17:38,790 INFO [base.py(base_find_element:28)] - 正在查找元素：('xpath', "//*[text()='发表']")
+2022-07-28 04:17:38,803 INFO [base.py(base_click_element:40)] - 正在点击元素：('xpath', "//*[text()='发表']")
+2022-07-28 04:17:41,854 INFO [base.py(base_find_element:28)] - 正在查找元素：('xpath', "//*[contains(text(),'新增文章成功')]")
+2022-07-28 04:17:41,880 INFO [base.py(base_get_text:65)] - 正在获取文本：('xpath', "//*[contains(text(),'新增文章成功')]") 新增文章成功
+2022-07-28 04:17:42,906 INFO [test_02_mp_article.py(teardown_class:28)] - 类之后调用
+2022-07-28 04:17:42,907 INFO [get_driver.py(quit_web_driver:20)] - quit_web_driver
